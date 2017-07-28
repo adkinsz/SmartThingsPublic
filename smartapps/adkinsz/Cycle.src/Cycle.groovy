@@ -14,7 +14,7 @@
  *
  */
 definition(
-    name: "SunCycle",
+    name: "Cycle",
     namespace: "adkinsz",
     author: "Zachary",
     description: "Control RGBW lights to roughly map to the color of natural light.",
